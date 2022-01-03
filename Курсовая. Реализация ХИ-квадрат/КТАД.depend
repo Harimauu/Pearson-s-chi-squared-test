@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1608582886 source:c:\users\wikas\onedrive\Рабочий стол\my files\codeblocks\КТАД\main.cpp
+	<iostream>
+	<random>
+	<chrono>
+	<vector>
+	<algorithm>
+	<cmath>
+	<fstream>
+	<string>
+
+1641210925 source:c:\users\wikas\onedrive\Рабочий стол\my files\Учёба\Семестр 1\Компьютерные технологии моделирования и анализа данных\Курсовая. Реализация ХИ-квадрат\main.cpp
+	<iostream>
+	<random>
+	<chrono>
+	<vector>
+	<algorithm>
+	<cmath>
+	<fstream>
+	<string>
+
