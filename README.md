@@ -1,3 +1,2 @@
 # Pearson-s-chi-squared-test
-Pearson's chi-squared test for 
-123
+Pearson's chi-squared test for coursework
